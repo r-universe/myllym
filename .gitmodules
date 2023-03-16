@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GET"]
+	path = GET
+	url = https://github.com/myllym/get
+	shallow = true
+	registered = true
