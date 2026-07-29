@@ -5,3 +5,6 @@
 [submodule "GET"]
 	path = GET
 	url = https://github.com/myllym/get
+[submodule "pphotspot"]
+	path = pphotspot
+	url = https://github.com/myllym/pphotspot
